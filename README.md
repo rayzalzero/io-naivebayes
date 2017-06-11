@@ -1,4 +1,8 @@
-Naive Bayes Classifier
+# Naive Bayes Classifier
+
+<a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg" /></a>
+<a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg" /></a>
+<a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg" /></a>
 
 Perhitungan ini sedang dalam pengembangan jika ada kesalahan silahkan masukkan di issue
 
