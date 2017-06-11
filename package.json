@@ -1,6 +1,6 @@
 {
   "name": "io-naivebayes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Naive Bayes Classifier",
   "main": "app.js",
   "scripts": {
@@ -21,6 +21,5 @@
     "url": "https://github.com/rayzalzero/io-naivebayes/issues"
   },
   "homepage": "https://github.com/rayzalzero/io-naivebayesnpm #readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
