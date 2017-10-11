@@ -6,7 +6,6 @@
 
 Perhitungan ini sedang dalam pengembangan jika ada kesalahan silahkan masukkan di issue. Perhitungan ini masih menggunakan perhitungan murni dengan beberapa tambahan di Stopword dll. Apabila ada masukkan atau ingin mengembangkan module ini silahkan <a href="mailto:rayzalzero@gmail.com">klik disini</a>
 
-
 # Install
 
 ```bash
