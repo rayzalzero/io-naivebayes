@@ -1,7 +1,7 @@
 {
   "name": "io-naivebayes",
-  "version": "1.0.8",
-  "description": "Naive Bayes Classifier",
+  "version": "1.0.9",
+  "description": "Naive Bayes Classifier method. Counting probability of word to classify of word.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

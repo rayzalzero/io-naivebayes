@@ -1,4 +1,4 @@
-const nbayes = require('./lib/io-naivebayes')
+const nbayes = require('./lib/io-naivebayes');
 
 
 nbayes.train('positif', 'budi alhamdulillah');
