@@ -1,20 +1,9 @@
 # Naive Bayes Classifier
 
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
-
 [![Issue Count](https://codeclimate.com/github/rayzalzero/io-naivebayes/badges/issue_count.svg)](https://codeclimate.com/github/rayzalzero/io-naivebayes)
-
 [![version](https://img.shields.io/npm/v/io-naivebayes.svg)](https://www.npmjs.org/package/io-naivebayes)
-
 [![status](https://travis-ci.org/rayzalzero/io-naivebayes.svg)](https://travis-ci.org/rayzalzero/io-naivebayes)
-
-[![coverage](https://img.shields.io/coveralls/rayzalzero/io-naivebayes.svg)](https://coveralls.io/github/rayzalzero/io-naivebayes)
-
-[![dependencies](https://david-dm.org/rayzalzero/io-naivebayes.svg)](https://david-dm.org/rayzalzero/io-naivebayes)
-
-[![devDependencies](https://david-dm.org/rayzalzero/io-naivebayes/dev-status.svg)](https://david-dm.org/rayzalzero/io-naivebayes#info=devDependencies)
-
-![node](https://img.shields.io/node/v/io-naivebayes.svg)
 
 Perhitungan ini sedang dalam pengembangan jika ada kesalahan silahkan masukkan di issue. Perhitungan ini masih menggunakan perhitungan murni dengan beberapa tambahan di Stopword dll. Apabila ada masukkan atau ingin mengembangkan module ini silahkan <a href="mailto:rayzalzero@gmail.com">klik disini</a>
 
