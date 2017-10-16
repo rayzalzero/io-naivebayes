@@ -5,6 +5,8 @@
 <a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg" /></a>
 <a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg" /></a>
 
+[![Issue Count](https://codeclimate.com/github/rayzalzero/io-naivebayes/badges/issue_count.svg)](https://codeclimate.com/github/rayzalzero/io-naivebayes)
+
 Perhitungan ini sedang dalam pengembangan jika ada kesalahan silahkan masukkan di issue. Perhitungan ini masih menggunakan perhitungan murni dengan beberapa tambahan di Stopword dll. Apabila ada masukkan atau ingin mengembangkan module ini silahkan <a href="mailto:rayzalzero@gmail.com">klik disini</a>
 
 # Install
