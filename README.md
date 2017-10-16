@@ -1,5 +1,6 @@
 # Naive Bayes Classifier
 
+[![Build Status](https://travis-ci.org/rayzalzero/io-naivebayes.svg?branch=master)](https://travis-ci.org/rayzalzero/io-naivebayes)
 <a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg" /></a>
 <a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg" /></a>
 <a href="https://codeclimate.com/github/rayzalzero/io-naivebayes"><img src="https://codeclimate.com/github/codeclimate/codeclimate/badges/issue_count.svg" /></a>
