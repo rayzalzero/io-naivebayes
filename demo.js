@@ -1,6 +1,5 @@
 const nbayes = require('./lib/io-naivebayes');
 
-
 nbayes.train('positif', 'budi alhamdulillah');
 nbayes.train('negatif', 'budi suka bom');
 
